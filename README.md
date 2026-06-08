@@ -4,15 +4,31 @@
 FoodFlux
 
 ## Challenge
-Everyday AI Innovator: Life, Made Better
+Track 2 - Everyday AI Innovator: Life, Made Better
 
-## Project
+## Problem
 
-Ingredient DNA AI is an AI-powered food transparency platform that helps consumers understand packaged food ingredients through ingredient analysis, allergen detection, and transparency scoring.
+Consumers often read food labels but struggle to understand ingredient lists, additives, preservatives, and allergens.
+
+## Solution
+
+Ingredient DNA AI converts complex ingredient lists into simple, understandable insights using AI-powered ingredient analysis.
+
+## Core Features
+
+- Ingredient Scanner
+- Ingredient Analysis
+- Ingredient DNA Mapping
+- Transparency Score
+- Allergen Detection
+- AI-powered Explanations
 
 ## Team Members
 
-- Pratheeksha Shalbin (Team Lead)
-- Deekshanya (UI/UX)
-- Shanney (Documentation & PPT)
-- Sarthak (Full Stack & AI Integration)
+- Pratheeksha Shalbin
+- Deekshanya
+- Shanney
+- Sarthak
+
+## Status
+Planning & Design Phase
